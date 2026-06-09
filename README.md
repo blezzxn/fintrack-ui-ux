@@ -1,4 +1,5 @@
-# FinTrack – Smart Personal Finance & Expense Tracking App
+##Figma Design:
+https://www.figma.com/design/cP44p4pG1X1azZYcJjhvgc/task-1?node-id=0-1&t=FamCgex7ls5sA2Qd-1
 
 FinTrack is a modern mobile finance management app designed to help users track expenses, manage budgets, and analyze spending habits. The application features expense recording, spending analytics, budget monitoring, and a clean user-friendly interface built in Figma.
 

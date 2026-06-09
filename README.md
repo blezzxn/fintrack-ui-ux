@@ -35,5 +35,5 @@ Blesson Joy
 
 ### Analytics
 ![Analytics](analytics.png)
-### Analytics
+### Add Expense
 ![Add expense](addexpense.png)

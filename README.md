@@ -25,13 +25,13 @@ Blesson Joy
 ## Screenshots
 
 ### Splash Screen
-![Splash Screen](images/splash.png)
+![Splash Screen](splash.png)
 
 ### Login Screen
-![Login Screen](images/login.png)
+![Login Screen](login.png)
 
 ### Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Analytics
-![Analytics](images/analytics.png)
+![Analytics](analytics.png)

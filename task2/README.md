@@ -133,6 +133,8 @@ Low-fidelity wireframes were created to define the layout, navigation, and user 
 ![Wireframe 3](dashboard.png)
 ![Wireframe 3](addexpense.png)
 ![Wireframe 3](analytics.png)
+![Wireframe 3](profile.png)
+
 
 
 

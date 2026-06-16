@@ -129,7 +129,13 @@ Low-fidelity wireframes were created to define the layout, navigation, and user 
 
 ![Wireframe 1](splash1.png)
 ![Wireframe 2](login.png)
-![Wireframe 3](sign up.png)
+![Wireframe 3](signup.png)
+![Wireframe 3](dashboard.png)
+![Wireframe 3](addexpense.png)
+![Wireframe 3](analytics.png)
+
+
+
 
 #  Design Principles
 

@@ -127,9 +127,9 @@ End
 
 Low-fidelity wireframes were created to define the layout, navigation, and user interactions before high-fidelity design and prototyping.
 
-![Wireframe 1](images/splash1.png)
-![Wireframe 2](images/login.png)
-![Wireframe 3](images/sign up.png)
+![Wireframe 1](splash1.png)
+![Wireframe 2](login.png)
+![Wireframe 3](sign up.png)
 
 #  Design Principles
 

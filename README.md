@@ -1,3 +1,4 @@
+FinTrack.pdf
 ##Figma Design:
 https://www.figma.com/design/cP44p4pG1X1azZYcJjhvgc/task-1?node-id=0-1&t=FamCgex7ls5sA2Qd-1
 

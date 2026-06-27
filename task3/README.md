@@ -10,13 +10,13 @@ This project is the **High-Fidelity UI Design and Interactive Prototype** of an 
 The application helps users efficiently manage their income and expenses through an intuitive, clean, and visually appealing interface.
 # 🔗 Figma Design
 
-Paste your Figma Design Link here
+https://www.figma.com/design/cP44p4pG1X1azZYcJjhvgc/task1?node-id=0-1&t=9m9AdmgeTMX0k61q-1
 
 ---
 
 # 🎬 Prototype Link
 
-Paste your Prototype Link here
+https://www.figma.com/proto/cP44p4pG1X1azZYcJjhvgc/task1?node-id=2-121&p=f&viewport=43%2C304%2C0.21&t=8iJKFThxAFqrZkH7-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2%3A2&page-id=0%3A1&show-proto-sidebar=1
 
 ---
 

@@ -235,7 +235,7 @@ Paste your Prototype Link here
 ### Analytics
 ![Analytics](analytics.png)
 ### Add Expense
-![Add expense](addexpense.png)
+![Addexpense](addexpense.png)
 ### Profile
 ![Profile](profile.png)
 

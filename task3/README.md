@@ -1,215 +1,248 @@
-UI/UX Design Internship – Task 3
-Expense Tracker App – High-Fidelity UI Design & Interactive Prototype
-Expense Tracker App
+# 💰 Expense Tracker App
+### UI/UX Design Internship – Task 3
 
-Intern: Blesson Joy
-Task: UI/UX Design Internship – Task 3
-Project: Expense Tracker Mobile Application
-Tool Used: Figma
+---
 
-Project Overview
+## 📌 Project Overview
 
-The Expense Tracker application is designed to help users easily manage their daily income and expenses. The application provides a clean, modern, and user-friendly interface that enables users to monitor spending, categorize transactions, and understand their financial habits through visual summaries.
+This project is the **High-Fidelity UI Design and Interactive Prototype** of an Expense Tracker mobile application created as part of the UI/UX Design Internship Task 3.
 
-The primary goal of this project was to transform the wireframes created in Task 2 into polished, high-fidelity user interface designs while maintaining usability, accessibility, and consistency.
+The application helps users efficiently manage their income and expenses through an intuitive, clean, and visually appealing interface.
 
-Objectives
-Design visually appealing mobile application screens.
-Maintain consistency throughout the application.
-Create an interactive prototype.
-Follow modern UI design principles.
-Ensure good usability and accessibility.
-Screens Designed
+---
 
-The application includes the following screens:
+## 🎯 Objectives
 
-Splash Screen
-Welcome / Onboarding Screen
-Login Screen
-Sign Up Screen
-Home Dashboard
-Add Expense
-Add Income
-Transaction History
-Expense Categories
-Statistics / Analytics
-Profile
-Settings
+- Design high-fidelity mobile app screens
+- Maintain UI consistency across all screens
+- Create an interactive prototype
+- Apply modern UI design principles
+- Improve usability and accessibility
 
-(Modify this list if your app contains different screens.)
+---
 
-Design Style
-Theme
+# 🖼️ Screens Designed
 
-Modern, minimalistic and clean interface.
+| Screen | Description |
+|---------|-------------|
+| Splash Screen | App introduction |
+| Onboarding | Welcome and app overview |
+| Login | User authentication |
+| Sign Up | New account creation |
+| Home Dashboard | Expense summary |
+| Add Expense | Record expenses |
+| Add Income | Record income |
+| Transaction History | View all transactions |
+| Statistics | Spending analytics |
+| Profile | User profile |
+| Settings | App settings |
 
-Color Palette
+> Replace this list if your screens are different.
 
-Primary Color:
+---
 
-#4CAF50 (Green)
+# 🎨 Design Style
 
-Secondary Color:
+### Theme
 
-White (#FFFFFF)
+Modern • Minimal • Clean
 
-Background:
+### Color Palette
 
-#F7F8FA
+| Color | Hex Code |
+|---------|----------|
+| Primary | #4CAF50 |
+| Secondary | #FFFFFF |
+| Background | #F7F8FA |
+| Accent | #2196F3 |
+| Error | #E53935 |
 
-Accent Color:
+---
 
-#2196F3
+# 🔤 Typography
 
-Error Color:
+| Element | Font |
+|----------|------|
+| Font Family | Poppins |
+| Heading | Bold |
+| Subheading | Semi-Bold |
+| Body | Regular |
+| Buttons | Medium |
 
-#E53935
+---
 
-(Replace these with your actual colors if different.)
+# 🧩 UI Components
 
-Typography
+- Primary Buttons
+- Secondary Buttons
+- Input Fields
+- Cards
+- Bottom Navigation
+- Navigation Bar
+- Icons
+- Profile Avatar
+- Charts
+- Transaction Cards
 
-Font Family:
+---
 
-Poppins
+# 🏗️ Design System
 
-Headings:
+The application follows a consistent design system including:
 
-Bold
-24–32px
+- Consistent spacing
+- Uniform typography
+- Reusable components
+- Color consistency
+- Standard icon sizes
+- Rounded corners
+- Shadow effects
+- Auto Layout
 
-Subheadings:
+---
 
-Semi-Bold
-18–20px
+# 📐 Visual Hierarchy
 
-Body Text:
+The design follows proper visual hierarchy by:
 
-Regular
-14–16px
+- Large headings
+- Clear spacing
+- Proper alignment
+- White space usage
+- Highlighting important information
+- Consistent colors
 
-Buttons:
+---
 
-Medium
-16px
-UI Components Used
+# 🔄 Interactive Prototype
 
-The interface was designed using reusable components to maintain consistency.
+The prototype includes:
 
-Components include:
+- Login Flow
+- Screen Navigation
+- Button Interactions
+- Dashboard Navigation
+- Add Expense Flow
+- Add Income Flow
+- Profile Navigation
+- Settings Navigation
 
-Primary Buttons
-Secondary Buttons
-Text Fields
-Navigation Bar
-Bottom Navigation
-Cards
-Category Icons
-Profile Avatar
-Transaction List Items
-Charts
-Dialog Boxes
-Design System
+---
 
-A simple design system was followed throughout the application.
+# ♿ Accessibility
 
-It includes:
+Accessibility improvements include:
 
-Consistent spacing
-Uniform button styles
-Reusable colors
-Standard typography
-Consistent icon sizes
-Rounded cards
-Consistent shadows
-Uniform padding and margins
-Visual Hierarchy
+- High color contrast
+- Readable typography
+- Large touch targets
+- Clear labels
+- Consistent navigation
+- Simple layouts
 
-The interface follows a clear visual hierarchy by:
+---
 
-Using larger fonts for headings.
-Highlighting important information with color.
-Providing enough white space.
-Grouping related content together.
-Maintaining consistent alignment.
-Interactive Prototype
+# 💡 Design Decisions
 
-The prototype was created in Figma.
+### Green Theme
 
-Interactions include:
+Represents finance, savings, and growth.
 
-Login navigation
-Screen transitions
-Bottom navigation
-Add Expense flow
-Add Income flow
-Profile navigation
-Settings navigation
-Accessibility Considerations
+### Minimal Interface
 
-The UI was designed with accessibility in mind.
+Reduces distractions and improves usability.
 
-Features include:
+### Card Layout
 
-High color contrast
-Readable font sizes
-Large touch targets
-Simple navigation
-Consistent layouts
-Clear labels
-Design Decisions
+Makes information easier to scan.
 
-Several design decisions were made to improve the user experience.
+### Bottom Navigation
 
-Green Theme
+Provides quick access to important sections.
 
-Green represents finance, savings, and growth.
+### Charts
 
-Minimal Layout
+Visualize spending habits effectively.
 
-A clean layout reduces distractions and allows users to focus on financial information.
+---
 
-Bottom Navigation
+# 🚀 Prototype Features
 
-Provides quick access to frequently used sections.
+- Clickable prototype
+- Smooth navigation
+- Interactive transitions
+- Connected user flows
+- Realistic app experience
 
-Card-Based Interface
+---
 
-Cards separate information into easily readable sections.
+# 📚 Learning Outcomes
 
-Icons
+During this project, I learned:
 
-Icons improve recognition and reduce reading effort.
+- High-Fidelity UI Design
+- Design Systems
+- Visual Hierarchy
+- Component Design
+- Auto Layout
+- Interactive Prototyping
+- Accessibility Principles
+- UI Consistency
 
-Charts
+---
 
-Graphs provide users with a quick understanding of their spending habits.
+# 🛠️ Tools Used
 
-Prototype Features
-Smooth navigation
-Clickable buttons
-Interactive screen transitions
-Connected user flows
-Realistic app experience
-Challenges Faced
-Maintaining consistent spacing
-Selecting an appropriate color palette
-Designing reusable components
-Creating a realistic prototype
-Ensuring responsive layouts
-Learning Outcomes
+- Figma
+- Google Fonts
+- Material Icons
 
-Through this task, I learned:
+---
 
-High-Fidelity UI Design
-Visual Hierarchy
-Design Systems
-Component-Based Design
-Auto Layout in Figma
-Interactive Prototyping
-UI Consistency
-Accessibility Principles
-Tools Used
-Figma
-Google Fonts
-Material Icons
+# 📁 Deliverables
+
+- ✅ High-Fidelity UI Screens
+- ✅ Interactive Prototype
+- ✅ Design System
+- ✅ UI Components
+- ✅ Documentation
+
+---
+
+# 🔗 Figma Design
+
+Paste your Figma Design Link here
+
+---
+
+# 🎬 Prototype Link
+
+Paste your Prototype Link here
+
+---
+
+# 📸 Screenshots
+
+## Splash Screen
+
+<img src="images/splash.png" width="250"/>
+
+## Login Screen
+
+<img src="images/login.png" width="250"/>
+
+## Dashboard
+
+<img src="images/dashboard.png" width="250"/>
+
+## Add Expense
+
+<img src="images/add-expense.png" width="250"/>
+
+> Add all your screen images inside an **images** folder.
+
+---
+
+# ✅ Conclusion
+
+The Expense Tracker application demonstrates a modern and user-centered interface through a consistent visual design system, reusable components, and an interactive prototype. The project emphasizes usability, accessibility, and clean aesthetics to provide users with an efficient expense management experience.

@@ -8,6 +8,15 @@
 This project is the **High-Fidelity UI Design and Interactive Prototype** of an Expense Tracker mobile application created as part of the UI/UX Design Internship Task 3.
 
 The application helps users efficiently manage their income and expenses through an intuitive, clean, and visually appealing interface.
+# 🔗 Figma Design
+
+Paste your Figma Design Link here
+
+---
+
+# 🎬 Prototype Link
+
+Paste your Prototype Link here
 
 ---
 
@@ -209,15 +218,6 @@ During this project, I learned:
 
 ---
 
-# 🔗 Figma Design
-
-Paste your Figma Design Link here
-
----
-
-# 🎬 Prototype Link
-
-Paste your Prototype Link here
 
 ---
 

@@ -223,23 +223,22 @@ Paste your Prototype Link here
 
 # 📸 Screenshots
 
-## Splash Screen
+#### Splash Screen
+![Splash Screen](splash.png)
 
-<img src="images/splash.png" width="250"/>
+### Login Screen
+![Login Screen](login.png)
 
-## Login Screen
+### Dashboard
+![Dashboard](dashboard.png)
 
-<img src="images/login.png" width="250"/>
+### Analytics
+![Analytics](analytics.png)
+### Add Expense
+![Add expense](addexpense.png)
+### Profile
+![Profile](profile.png)
 
-## Dashboard
-
-<img src="images/dashboard.png" width="250"/>
-
-## Add Expense
-
-<img src="images/add-expense.png" width="250"/>
-
-> Add all your screen images inside an **images** folder.
 
 ---
 
